@@ -12,6 +12,7 @@ The template implements a modular design pattern that separates concerns into co
 <div align="center">
   <p>Your One Click Can Help Other User To Find This Repo Quickly: Leave a star ⭐<p>
 </div>
+
 ---
 
 ## Repository Structure
