@@ -4,6 +4,16 @@ This project provides a robust template for building Telegram bots using Grammy.
 
 The template implements a modular design pattern that separates concerns into conversations, actions, and commands. It features built-in support for emoji parsing, markdown formatting, and session management. The project uses Bun.js as the runtime environment for enhanced performance and modern JavaScript features, while leveraging Grammy.js's powerful bot framework capabilities.
 
+
+### 💕Credit
+- Coded By github.com/uo1428 
+
+---
+<div align="center">
+  <p>Your One Click Can Help Other User To Find This Repo Quickly: Leave a star ⭐<p>
+</div>
+---
+
 ## Repository Structure
 ```
 .
@@ -130,17 +140,9 @@ Key component interactions:
 - Conversations manage multi-step interactions with state management
 - Error handler catches and formats all runtime errors
 
-### 💕Credit
-- Coded By github.com/uo1428 
-
-## ✨ Discord Profile
+## Discord Profile
 <div align="center">
   <a width="100%" href="https://patreon.com/uoaio"  target="_blank">
     <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/922120042651451423.png">
   </a>
-</div>
-
-
-<div align="center">
-  <p>Your One Click Can Help Other User To Find This Repo Quickly: Leave a star ⭐<p>
 </div>
