@@ -1,4 +1,4 @@
-# Grammy.js Telegram Bot Template with Bun.js - A Modern TypeScript Bot Framework
+# Grammy.js Telegram Bot Template with Bun.js
 
 This project provides a robust template for building Telegram bots using Grammy.js and Bun.js with TypeScript support. It offers a structured architecture with conversation management, action handling, and command processing capabilities out of the box.
 
@@ -10,7 +10,7 @@ The template implements a modular design pattern that separates concerns into co
 
 ---
 <div align="center">
-  <p>Your One Click Can Help Other User To Find This Repo Quickly: Leave a star ⭐<p>
+  <p>Your One Click Can Help Other Users To Find This Repo Quickly: Leave a star ⭐<p>
 </div>
 
 ---
