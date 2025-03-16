@@ -51,5 +51,5 @@ client.errorHandler = ({ message, error, ctx }) => {
 };
 
 /**
- * follow me on youtube/patreon/discord: @uoaio - github: @uo1428
+ * follow me on youtube/patreon/discord: @uoaio - github: @uo1428 - fiverr: @aryanali945
  */
