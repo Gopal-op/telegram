@@ -50,7 +50,7 @@ The template implements a modular design pattern that separates concerns into co
 ### Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Uo1428/grammy-bunjs-telegram-bot.git
 cd grammy-bunjs-telegram-bot-template
 ```
 
